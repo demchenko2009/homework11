@@ -1,3 +1,7 @@
+div {
+    margin: 0;
+    padding: 0;
+}
 .box {
     width: 350px;
     height: 220px;
